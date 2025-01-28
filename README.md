@@ -1,4 +1,4 @@
 # Netflix-Data-Analysis
 
-![Sample Image](netflix-medium.jpg)
+![](netflix-medium.jpg)
 

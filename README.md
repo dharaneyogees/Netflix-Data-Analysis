@@ -26,7 +26,7 @@ To use this project as a starting point for your own data analysis or to enhance
 Feel free to experiment with different visualizations, filters, and parameters to derive additional insights from the Netflix dataset.
 
 # Insights & Conclusion
-![](Pictures/Netflix-Dashboard)
+![](Pictures/Netflix-Dashboard.png)
 Thank You!
 
 
